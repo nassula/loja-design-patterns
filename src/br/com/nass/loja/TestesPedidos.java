@@ -8,6 +8,7 @@ import br.com.nass.loja.pedido.GeraPedidoHandler;
 import br.com.nass.loja.pedido.acoes.CriarPedidoNoBanco;
 import br.com.nass.loja.pedido.acoes.EnviarPedidoPorEmail;
 
+//Classe utilizada para testar os pedidos
 public class TestesPedidos {
 
     public static void main(String[] args) {
